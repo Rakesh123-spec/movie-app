@@ -1,4 +1,4 @@
-const KEY = "3fd2be6f0c70a2a598f084ddfb75487c";
+const KEY = "9f6b4cc635b2adf1af3813de000aad14";
 // For educational purposes only - DO NOT USE in production
 const API_URL = `https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=${KEY}&page=1`;
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
